@@ -2,9 +2,8 @@
 # Hoja de Vida
 
 ## Nombre Completo: Jesus Eduardo Espinosa Gonzalez
-**Profesión:** Analisis y Desarrollador de Software 
-Ingeniero de Sistemas
-Ciencias de la Computacion
+**Profesión:** Analisis y Desarrollador de Software, 
+Ingeniero de Sistemas y Cientifico de Ciencias de la Computacion
 
 ## 📞 Contacto
 - **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
