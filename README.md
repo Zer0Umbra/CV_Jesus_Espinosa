@@ -24,7 +24,7 @@ Ingeniero de Sistemas y Cientifico de Ciencias de la Computacion
 - Títulado.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Aprendizaje rápido**
+- **Mentalidad de crecimiento**
+- **Persistencia/obsesión por mejorar**
 
