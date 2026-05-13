@@ -6,7 +6,7 @@
 Ingeniero de Sistemas y Cientifico de Ciencias de la Computacion
 
 ## 📞 Contacto
-- **Email:** [jersabug@gmail.com](https://mail.google.com/jersabug@gmail.com)
+- **Email:** [jersabug@gmail.com](jersabug@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
